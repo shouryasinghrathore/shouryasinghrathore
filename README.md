@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </p>
 
 
-##🎶 Vibing to
+### 🎶 Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
 
 
