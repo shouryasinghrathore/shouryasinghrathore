@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  [![@shouryaa_26's Holopin board](https://holopin.me/shouryaa_26)](https://holopin.io/@shouryaa_26)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shourya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shourya Singh Rathore</h1>
 
 
 ### 🙋‍♂️ About Me
