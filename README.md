@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 
- 📬 Reach me out
+## 📬 Reach me out
 <p align="">
 <a href = "https://www.linkedin.com/in/shourya-singh-rathore-1913721bb/"/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/shouryaa_26/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
